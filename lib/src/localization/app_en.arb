@@ -1,0 +1,22 @@
+{
+  "appTitle": "iml_test_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login": "LOGIN",
+    "profile_app": "Profile App",
+    "username":"Username",
+    "password":"Password",
+    "username_hint":"Enter Username*",
+    "password_hint":"Enter Password",
+    "remember_me":"Rememeber Me?",
+    "welcome_text":"Welcome to Profile app",
+    "uname_empty_err": "Username cannot be empty",
+    "email_invalid_err":"Invalid Email",
+    "pass_empty_err": "Password cannot be empty",
+    "pass_len_err":"Password must be of 8 length",
+    "pass_lowercase_err":"Password must contain one lower case",
+    "passs_uppercase_err": "Password must contain one upper case",
+    "pass_specialcase_err":"Password must contain one special character",
+    "pass_digit_err":"Password must contain one digit"
+}
